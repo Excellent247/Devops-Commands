@@ -1,2 +1,14 @@
-## PODS 
+## Pods
 kubectl run nginx --image=nginx // create a pod with name nginx using nginx image
+
+
+## Deployments
+kubectl create development redis-deploy --image=redis // create deployment
+
+
+
+
+## Services
+
+
+## Replica controller
